@@ -8,9 +8,10 @@
      Realization of Game 4 in a row as part of a final project in the Introduction to Computer Science course in the C language
  
 <h3 style="border: 3px;">Some pictures...</h3>
+<h4 style="pointer-events: visibleFill;">start the game</h4>
 <img src="https://github.com/NeriyaZudi/4-In-Row/blob/main/pictures%204inRow/1.png" align="center"
-     alt="1" width="600" height="400">
+     alt="1" width="300" height="300">
      <img src="https://github.com/NeriyaZudi/4-In-Row/blob/main/pictures%204inRow/2.png" align="center"
-     alt="2" width="600" height="400">
+     alt="2" width="300" height="300">
      <img src="https://github.com/NeriyaZudi/4-In-Row/blob/main/pictures%204inRow/3.png" align="center"
-     alt="3" width="600" height="400">
+     alt="3" width="300" height="300">
