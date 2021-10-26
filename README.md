@@ -9,8 +9,8 @@
  
 <h3 style="border: 3px;">Some pictures...</h3>
 <img src="https://github.com/NeriyaZudi/4-In-Row/blob/main/pictures%204inRow/1.png" align="center"
-     alt="1" width="600" height="150">
+     alt="1" width="600" height="400">
      <img src="https://github.com/NeriyaZudi/4-In-Row/blob/main/pictures%204inRow/2.png" align="center"
-     alt="2" width="600" height="150">
+     alt="2" width="600" height="400">
      <img src="https://github.com/NeriyaZudi/4-In-Row/blob/main/pictures%204inRow/3.png" align="center"
-     alt="3" width="600" height="150">
+     alt="3" width="600" height="400">
