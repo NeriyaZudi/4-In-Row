@@ -7,3 +7,4 @@
      
      Realization of Game 4 in a row as part of a final project in the Introduction to Computer Science course in the C language
  
+<h1 style="border: 3px;">Some pictures...</h1>
