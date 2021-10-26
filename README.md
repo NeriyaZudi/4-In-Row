@@ -8,7 +8,7 @@
      Realization of Game 4 in a row as part of a final project in the Introduction to Computer Science course in the C language
  
 <h3 style="border: 3px;">Some pictures...</h3>
-<h4 style="color: cyan, font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">start the game</h4>
+<h4 style="color: cyan;">start the game</h4>
 <img src="https://github.com/NeriyaZudi/4-In-Row/blob/main/pictures%204inRow/1.png" align="center"
      alt="1" width="300" height="300">
      <img src="https://github.com/NeriyaZudi/4-In-Row/blob/main/pictures%204inRow/2.png" align="center"
